@@ -157,9 +157,9 @@ Health状体机中的Attacked状态用于设置敌人被攻击时的动画Damage
  
 ![image](https://github.com/PaulDir/Tanks-war/blob/master/images/43.png)
 ## 7. 音效  
-	该模块将完成：  
-	坦克行动音效设置    
-	炮弹音效与爆炸效果设置    
+该模块将完成：  
+坦克行动音效设置    
+炮弹音效与爆炸效果设置    
 本模块内容参考https://github.com/SSGamble/TanksGame，并引用了相关源码。  
 音效包位于Assets>AudioClips  
  
@@ -172,7 +172,7 @@ Health状体机中的Attacked状态用于设置敌人被攻击时的动画Damage
 发射炮弹时音效为ShotFiring，图7.1.2,爆炸为ShellExplosion。  
 ![image](https://github.com/PaulDir/Tanks-war/blob/master/images/46.png)
 
-	至此，整个游戏项目搭建完成。  
+至此，整个游戏项目搭建完成。  
 
 ## 8. 结论    
    通过前面七节，游戏流程大概完成。此游戏要求玩家依靠发射炮弹击倒所有敌人从而获得最终的胜利。   
